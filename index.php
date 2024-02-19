@@ -1,3 +1,3 @@
 <?php
-echo "Hellow Word";
+echo "Belajar Edit Kode di Github";
 ?>
